@@ -36,7 +36,7 @@ button {
   padding: 15px 20px;
   background-color: black;
   color: white;
-  border-radius: 50%;
+  border-radius: 500px;
 }
 
 button:hover {
